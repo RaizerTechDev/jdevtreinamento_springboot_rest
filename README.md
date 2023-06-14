@@ -88,8 +88,7 @@ $ java -jar springboot-rest-api-sample-1.0.0-SNAPSHOT.jar
 
 ---
 # Implantação de serviço deploy:
-### Este projeto usa:
-- `Railway.app`.
+- `Railway.app`
 
 #### Criando um banco de dados `PostgreSQL`,copiando as variáveis ​​de ambiente do banco, criou- se o projeto do `git repositório` com base nessas variáveis, assim colando no editor RAW:
 
