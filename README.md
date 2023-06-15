@@ -22,7 +22,7 @@
 
 🎯 Front-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```JavaScript``` 
 
-🎯 Back-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```SpringBoot```
+🎯 Back-End <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Java```
 
 🎯 IDE <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> ```Eclipse```
 
@@ -67,7 +67,7 @@ mvn clean package
 $ java -jar springboot-rest-api-sample-1.0.0-SNAPSHOT.jar  
 ```
 
-### No Postman para execução dos testes:
+### No Postman para execução dos testes (APIs):
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Vai executar na porta => http://localhost:8081/`springboot-rest-api-sample+nomedasAPIs`
 
 ***
