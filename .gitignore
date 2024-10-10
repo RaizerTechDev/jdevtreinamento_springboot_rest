@@ -1,41 +1,75 @@
-#https://github.com/spring-projects/spring-boot/blob/master/.gitignore
+# Diretórios do build
+/bin/
+/target/
+/out/
 
-*#
-*.iml
-*.ipr
-*.iws
+# Arquivos de IDEs
+/.idea/
+/*.iml
+/.vscode/
+/*.class
 *.jar
-*.sw?
-*~
-.#*
-.*.md.html
-.DS_Store
+*.war
+*.ear
+*.db
+
+# Arquivos de configuração do Maven
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Arquivos de configuração do Gradle
+.gradle/
+build/
+gradle-app.setting
+.gradle/
+
+# Logs
+*.log
+
+# Diretórios de dependências do Maven e Gradle
+/.m2/repository/
+/.gradle/
+
+# Diretórios de testes
+/test-output/
+test-classes/
+
+# Arquivos de configuração do Eclipse
 .classpath
-.factorypath
-.gradle
-.idea
-.metadata
 .project
-.recommenders
-.settings
-.springBeans
-/build
-/code
-MANIFEST.MF
-_site/
-activemq-data
-bin
-build
-build.log
-dependency-reduced-pom.xml
-dump.rdb
-interpolated*.xml
-lib/
-manifest.yml
-overridedb.*
-target
-transaction-logs
-.flattened-pom.xml
-secrets.yml
-.gradletasknamecache
-.sts4-cache
+.settings/
+
+# Arquivos de configuração do NetBeans
+/nbproject/private/
+/nbproject/Makefile-Release.mk
+/nbproject/Makefile-Debug.mk
+/nbproject/project.xml
+/nbproject/Makefile.mk
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Arquivos de cache
+*.cache
+*.class
+*.log
+/.gradle/
+/out/
+
+# Arquivos de banco de dados
+*.sql
+*.db
+
+# Arquivos de configuração de ambiente
+.env
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
