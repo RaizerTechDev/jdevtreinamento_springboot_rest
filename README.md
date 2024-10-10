@@ -30,13 +30,13 @@
 
 # <div align="center">
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="75" width="75"> 
-### [Clique aqui para acessar o Projeto](https://jdevtreinamentospringbootrest-production.up.railway.app/springboot-rest-api-sample/)
+### [Clique aqui para acessar o Projeto](https://rafarz76dev-production.up.railway.app/springboot-rest-api-sample)
   
    <img src="images/certificado-jdev-1.png" align="center" height="500em" width="100%" >
   
 ***
   
-  <img src="images/springboot-rest.png" align="center" height="500em" width="100%" href="https://raizertechdev-production-7532.up.railway.app/springboot-rest-api-sample/">
+  <img src="images/springboot-rest.png" align="center" height="500em" width="100%" href="">
 
 ***
 <div align="left">
