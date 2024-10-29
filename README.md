@@ -84,8 +84,7 @@ $ java -jar springboot-rest-api-sample-1.0.0-SNAPSHOT.jar
 
 ### Executando projeto com `Deploy`:
 
-#### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> https://rafarz76dev-production.up.railway.app/springboot-rest-api-sample/
-
+#### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> https://raizertechdev-production-7532.up.railway.app/springboot-rest-api-sample/
 ---
 # Implantação de serviço deploy:
 - `Railway.app`
